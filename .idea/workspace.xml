@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fe08713-1e4d-4d80-a552-c35c820d794d" name="Default Changelist" comment="" />
+    <list default="true" id="7fe08713-1e4d-4d80-a552-c35c820d794d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CharacterSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WordInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WordLenghtReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polindrom.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +24,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UARM5Li3y09PTyVSG4RjCtDJEg" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -38,7 +51,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CharacterSort">
+    <configuration name="CharacterSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterSort" />
+      <module name="Strings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordInString" />
+      <module name="Strings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordLenghtReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordLenghtReplace" />
+      <module name="Strings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="polindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="polindrom" />
       <module name="Strings" />
@@ -48,6 +82,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharacterSort" />
+        <item itemvalue="Application.WordLenghtReplace" />
+        <item itemvalue="Application.WordInString" />
         <item itemvalue="Application.polindrom" />
       </list>
     </recent_temporary>
@@ -63,10 +100,22 @@
       <option name="presentableId" value="Default" />
       <updated>1574797361835</updated>
       <workItem from="1574797365162" duration="1118000" />
+      <workItem from="1575885768287" duration="9427000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
